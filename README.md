@@ -1,5 +1,7 @@
 # 轻笔 · LitePen
 
+![示例信笺](docs/screenshot.webp)
+
 > 一份 Markdown 进，一封像信的 HTML 出。
 > One Markdown in, one letter-like HTML out.
 
