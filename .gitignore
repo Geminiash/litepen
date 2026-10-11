@@ -1,0 +1,9 @@
+# 构建产物
+/target
+
+# 默认渲染输出
+/out
+
+# 本地预览与自检产物（用后即删）
+/tests/screenshots
+.playwright-cli/
